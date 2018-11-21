@@ -17,6 +17,6 @@ z1 = bezPlain.n3bezier.bqgon(collect.(s1)..., pvec', pvec); ##pointgen
 
 (a,b) = bezPlain.n3bezier.collectmaps([z1]); ([##], 3)  ## array shape formatting
 
-xstr = htmlPlot("", a,b, true, "T");     ##htmlgen
+xstr = htmlPlot.jg_plotMeshC("", a,b, true, "T");     ##htmlgen
 
 asciiServer.cgSet(xstr); ## file is served, visit localhost:8088/Graph 
