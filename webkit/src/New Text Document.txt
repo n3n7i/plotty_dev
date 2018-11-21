@@ -1,0 +1,18 @@
+
+
+##standard html object collections
+
+doc = [:html, :head, :body]
+
+tab = [:table, :thead, :tbody, :tr, :td]
+
+form = [:form, :input, :textarea, :button, :label]
+
+list = [:ul, :ol, :dl, :li, :dt, :dd]
+
+svg = [:svg, :circle, :rect, :line, :text]
+
+graph = [:figure, :figcaption, :img, :canvas, :map, :area]
+
+text = [:cite, :code, :em, :ins, :del, :kbd, :mark, :pre, :q, :sub, :sup]
+

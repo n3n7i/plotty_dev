@@ -1,0 +1,6 @@
+authors = ["luku "]
+name = "htmlPlot"
+uuid = "8601027e-e652-11e8-311b-45ac1b814393"
+version = "0.1.0"
+
+[deps]

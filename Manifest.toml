@@ -1,0 +1,14 @@
+[[asciiServer]]
+path = "asciiServer"
+uuid = "b0fd7ef0-e652-11e8-3d78-dd3c7c56e1c8"
+version = "0.1.0"
+
+[[bezPlain]]
+path = "bezPlain"
+uuid = "3352b3a0-e709-11e8-0375-a1f779b48fd6"
+version = "0.1.0"
+
+[[htmlPlot]]
+path = "htmlPlot"
+uuid = "8601027e-e652-11e8-311b-45ac1b814393"
+version = "0.1.0"

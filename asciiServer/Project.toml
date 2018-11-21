@@ -1,0 +1,6 @@
+authors = ["luku "]
+name = "asciiServer"
+uuid = "b0fd7ef0-e652-11e8-3d78-dd3c7c56e1c8"
+version = "0.1.0"
+
+[deps]
