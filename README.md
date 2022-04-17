@@ -9,7 +9,7 @@ include("initplotty.jl")
 
 asciiServer.taskport();    ## init localserver
 
-s1 = bezPlain.n3bezier.point3d([1 2 3.0], [1;2;3.0], 3.0); ##surface control
+s1 = bezPlain.n3bezier.point3d.([1 2 3.0], [1;2;3.0], 3.0); ##surface control 
 
 pvec = collect(0:0.05:1);    ##point control
 
