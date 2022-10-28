@@ -1,3 +1,8 @@
+name = "plotty_dev"
+uuid = "d9eb0937-5427-47ad-9b34-c751e55d3e2a"
+authors = ["luke "]
+version = "0.1.0"
+
 [deps]
 asciiServer = "b0fd7ef0-e652-11e8-3d78-dd3c7c56e1c8"
 bezPlain = "3352b3a0-e709-11e8-0375-a1f779b48fd6"
